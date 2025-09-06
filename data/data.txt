@@ -1,1 +1,1 @@
-
+You can download the dataset using Kaggle API: kaggle datasets download -d plantvillage/plantvillage-dataset unzip plantvillage-dataset.zip -d data/
